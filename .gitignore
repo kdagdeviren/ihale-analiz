@@ -1,0 +1,27 @@
+# Üretilen çıktılar
+ihale_analizi_*.xlsx
+rapor_*.xlsx
+tam_*.xlsx
+dogrulama*_sonuc.json
+Sekil*.png
+Sekil*.pdf
+Sekil*.tif
+
+# Gerçek kurum verisi — ASLA yüklenmemeli
+*_Etken_Madde_Analiz.*
+Ilac_Etken_analiz.*
+İlac_Etken_analiz.*
+SONUÇ*.xlsm
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
