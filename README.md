@@ -1,6 +1,6 @@
 # Hastane Eczanesinde Bulunurluğa Göre Düzeltilmiş İlaç Talebi Tahmini
 
-[![DOI](https://zenodo.org/badge/DOI/XX.XXXX/zenodo.XXXXXXX.svg)](https://doi.org/XX.XXXX/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1402704988.svg)](https://doi.org/10.5281/zenodo.23115657)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Hastane eczanelerinde yıllık ihale miktarının belirlenmesi için, rutin HBYS stok
