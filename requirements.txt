@@ -1,0 +1,8 @@
+# Ana analiz için gerekli (yalnızca bu ikisi)
+openpyxl>=3.1
+xlrd>=2.0          # eski .xls dosyalarını okumak için
+
+# Doğrulama ve şekil üretimi için ek olarak gerekli
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7

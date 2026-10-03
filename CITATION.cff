@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: >-
+  Hastane Eczanesinde Bulunurluğa Göre Düzeltilmiş İlaç Talebi
+  Tahmini — Analiz Aracı
+message: >-
+  Bu yazılımı kullanıyorsanız lütfen aşağıdaki gibi atıf veriniz.
+type: software
+authors:
+  - given-names: Yusuf Kağan
+    family-names: Dağdeviren
+    email: kagan.dagdeviren@deu.edu.tr
+    affiliation: >-
+      Dokuz Eylül Üniversitesi Araştırma ve Uygulama Hastanesi,
+      Hastane Eczanesi
+    orcid: 'https://orcid.org/0000-0003-3814-9401'
+  - given-names: Fatih Mahmut
+    family-names: Kara
+    affiliation: >-
+      Dokuz Eylül Üniversitesi Araştırma ve Uygulama Hastanesi,
+      Hastane Bilgi Yönetim Sistemi Birimi
+    orcid: 'https://orcid.org/0009-0003-3485-037X'
+repository-code: 'https://github.com/kdagdeviren/ihale-analiz'
+abstract: >-
+  Hastane eczanelerinde yıllık ihale miktarının belirlenmesi için rutin
+  HBYS stok hareket verisinden bulunurluğa göre düzeltilmiş talep tahmini
+  üreten açık kaynaklı araç. Tüketim, takvim süresine değil ilacın fiilen
+  stokta bulunduğu süreye bölünerek stoksuzluk kaynaklı sistematik eksik
+  tahmin giderilir.
+keywords:
+  - hastane eczanesi
+  - ilaç tedariki
+  - talep tahmini
+  - stok yönetimi
+  - sansürlenmiş talep
+  - hospital pharmacy
+  - demand forecasting
+  - censored demand
+license: MIT
+version: 1.0.0
+date-released: '2026-10-02'
