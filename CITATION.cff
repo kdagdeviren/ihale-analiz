@@ -20,6 +20,7 @@ authors:
       Hastane Bilgi Yönetim Sistemi Birimi
     orcid: 'https://orcid.org/0009-0003-3485-037X'
 repository-code: 'https://github.com/kdagdeviren/ihale-analiz'
+doi: 10.5281/zenodo.23115657
 abstract: >-
   Hastane eczanelerinde yıllık ihale miktarının belirlenmesi için rutin
   HBYS stok hareket verisinden bulunurluğa göre düzeltilmiş talep tahmini
