@@ -1,0 +1,25 @@
+{
+  "title": "Hastane Eczanesinde Bulunurluğa Göre Düzeltilmiş İlaç Talebi Tahmini — Analiz Aracı",
+  "description": "Hastane eczanelerinde yıllık ihale miktarının belirlenmesi için rutin HBYS stok hareket verisinden bulunurluğa göre düzeltilmiş talep tahmini üreten açık kaynaklı araç. Tüketim, takvim süresine değil ilacın fiilen stokta bulunduğu süreye bölünerek stoksuzluk kaynaklı sistematik eksik tahmin giderilir. Depodaki örnek veri sentetiktir.",
+  "license": "MIT",
+  "upload_type": "software",
+  "language": "tur",
+  "creators": [
+    {
+      "name": "Dağdeviren, Yusuf Kağan",
+      "affiliation": "Dokuz Eylül Üniversitesi Araştırma ve Uygulama Hastanesi, Hastane Eczanesi",
+      "orcid": "0000-0003-3814-9401"
+    },
+    {
+      "name": "Kara, Fatih Mahmut",
+      "affiliation": "Dokuz Eylül Üniversitesi Araştırma ve Uygulama Hastanesi, HBYS Birimi",
+      "orcid": "0009-0003-3485-037X"
+    }
+  ],
+  "keywords": [
+    "hastane eczanesi", "ilaç tedariki", "talep tahmini", "stok yönetimi",
+    "sansürlenmiş talep", "hospital pharmacy", "demand forecasting",
+    "censored demand", "inventory management"
+  ],
+  "access_right": "open"
+}
